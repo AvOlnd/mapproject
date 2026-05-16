@@ -8,7 +8,7 @@
 
 from flask import Flask, jsonify, request
 # Flask - создание веб-сервера
-# jsonify - превращает Python объекты в JSON ответы
+# jsonify - превращает Python объекты в JSON ответыff
 # request - получает данные от клиента
 
 import json
